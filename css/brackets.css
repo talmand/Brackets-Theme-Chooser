@@ -1,0 +1,41 @@
+/* Brackets theme */
+
+.cm-s-brackets span.cm-keyword {color: #446fbd;}
+
+
+/* code accent colors */
+.cm-s-brackets span.cm-keyword: #446fbd;
+.cm-s-brackets span.cm-atom: #f18900;
+.cm-s-brackets span.cm-number: #738d00;
+.cm-s-brackets span.cm-def: #8757ad;
+.cm-s-brackets span.cm-variable: #535353;
+.cm-s-brackets span.cm-variable-2: #535353;
+.cm-s-brackets span.cm-variable-3: #535353;
+.cm-s-brackets span.cm-property: #8757ad;
+.cm-s-brackets span.cm-operator: #535353;
+.cm-s-brackets span.cm-comment: #a2a2a2;
+.cm-s-brackets span.cm-string: #f18900;
+.cm-s-brackets span.cm-string-2: #f18900;
+.cm-s-brackets span.cm-meta: #535353;
+.cm-s-brackets span.cm-error: #dc322f;
+.cm-s-brackets span.cm-qualifier: #446fbd;
+.cm-s-brackets span.cm-builtin: #446fbd;
+.cm-s-brackets span.cm-bracket: #535353;
+.cm-s-brackets span.cm-tag: #446fbd;
+.cm-s-brackets span.cm-attribute: #738d00;
+.cm-s-brackets span.cm-header: #d33682;
+.cm-s-brackets span.cm-quote: #446fbd;
+.cm-s-brackets span.cm-hr: #f18900;
+.cm-s-brackets span.cm-link: #8757ad;
+.cm-s-brackets span.cm-rangeinfo: #6c71c4;
+.cm-s-brackets span.cm-minus: #dc322f;
+.cm-s-brackets span.cm-plus: #859900;
+
+/* inline editor colors */
+.cm-s-brackets span.cm-background-color-1: #eaeaea;
+.cm-s-brackets span.cm-background-color-2: #dfe2e2;
+.cm-s-brackets span.cm-background-color-3: #d0d5d5;
+
+.cm-s-brackets span.cmcolor-1: #a1a3a4;
+.cm-s-brackets span.cm-color-2: #8a8a8a;
+.cm-s-brackets span.cm-color-3: @bc-black;
