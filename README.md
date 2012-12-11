@@ -1,3 +1,5 @@
+Please note, this extension is out of date and no longer being updated!
+
 Brackets Theme Chooser extension
 ===
 Experiment to get themes into the editor window. Uses themes from: http://codemirror.net/theme/
